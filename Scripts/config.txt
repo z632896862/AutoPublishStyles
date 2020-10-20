@@ -1,0 +1,10 @@
+#sld存放路径
+C:\\Users\\zhaoyun\\PycharmProjects\\untitled1\\python\\Scripts\\test\\
+#geoserverurl
+http://192.168.1.153:2056
+#user
+admin
+#password
+geoserver1
+#workspace
+tldxt
